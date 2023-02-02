@@ -3,34 +3,10 @@
 
 Experienced Java developer who worked with professional customers from different backgrounds. Involved in software testing, management and development of new software opportunities
 
-<h3>KEY SKILLS:</h3>
-<h4>Java Programming:</h4>
- Micro Services, Spring Boot, Spring Cloud ,Spring Framework, Spring Data , Apache Camel , REST API, JSP and 
- Servlets, JSTL, Java Swings, JPA, JSON & AJAX , JQuery
-
- <h4>Python Programming:</h4>
- Data Science, Machine learning, Web Scrapping, Flask, Django
-
- <h4>Frontend:</h4>
- Angular, React, Flutter
-
- <h4>Amazon Web Service:</h4>
- AWS Developer, Devops,CI/Cd ,AWS Solution Architect , Terraform, Cloudformation, Alexa Skill, AWS 
- Summerian, AWS Chatbot, AWS Call Center
-
- <h4>Devops:</h4>
- Selenium, Kubernetes, Git, Docker, Puppet, Jenkins, Asible, Grafana, Prometheus, AWS Devops
-
- <h4>Database:</h4>
- Dynamo DB, Aurora, MySQL, Mongo DB, Redis, Firebase database
-
- <h4>Testing:</h4>
- Selenium Web Driver, TestNG, Sikuli, JUnit
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamzakfareed" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="hamzakfareed" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzakfareed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="hamzakfareed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamzakfareed" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="hamzakfareed" height="40" width="40" /></a>
+<a href="https://instagram.com/hamzakfareed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="hamzakfareed" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
