@@ -1,38 +1,29 @@
-<h1 align="center">Hi 👋, I'm Hamza Fareed</h1>
+# <h1 align="center">Hi 👋, I'm Hamza Fareed</h1>
 <h3 align="center">Java | Serverless | Microservices | AWS/Azure/GCP | K8s | Devops | Automation | Angular | React |
     Flutter</h3>
 
 Experienced Java developer who worked with professional customers from different backgrounds. Involved in software
 testing, management and development of new software opportunities
 
-KEY SKILLS:
-<ul>
-    <li><b>Java Programming: </b></li>
-    &nbsp; Micro Services, Spring Boot, Spring Cloud ,Spring Framework, Spring Data , Apache Camel , REST API, JSP and
+### KEY SKILLS:</h4>
+<div>
+    <div><b>Java Programming: </b></div>
+    &emsp;&emsp;Micro Services, Spring Boot, Spring Cloud ,Spring Framework, Spring Data , Apache Camel , REST API, JSP and
     Servlets, JSTL, Java Swings, JPA, JSON & AJAX , JQuery
-
-    <li>
-        <b>Python Programming:</b>
-    </li>
-    &nbsp;Data Science, Machine learning, Web Scrapping, Flask, Django
-
-    <li><b>Frontend:</b></li>
-    &nbsp; Angular, React, Flutter
-
-    <li><b>Amazon Web Services (AWS): </b></li>
-    &nbsp;AWS Developer, Devops,CI/Cd ,AWS Solution Architect , Terraform, Cloudformation, Alexa Skill, AWS
+    <div><b>Python Programming:</b></div>
+    &emsp;&emsp;Data Science, Machine learning, Web Scrapping, Flask, Django
+    <div><b>Frontend:</b></div>
+    &emsp;&emsp; Angular, React, Flutter
+    <div><b>Amazon Web Services (AWS): </b></div>
+     &emsp;&emsp;AWS Developer, Devops,CI/Cd ,AWS Solution Architect , Terraform, Cloudformation, Alexa Skill, AWS
     Summerian, AWS Chatbot, AWS Call Center
-    <li>
-        <b>Devops:</b>
-    </li>
-    &nbsp;Selenium, Kubernetes, Git, Docker, Puppet, Jenkins, AWS Devops
-
-    <li><b>Databases:</b></li>
-    &nbsp;Dynamo DB, Aurora, MySQL, Mongo DB, Redis, Firebase database
-
-    <li><b>Software Testing: </b></li>
-    </li> &nbsp;Selenium Web Driver, TestNG, Sikuli, JUnit
-</ul>
+    <div><b>Devops:</b></div>
+    &emsp;&emsp;Selenium, Kubernetes, Git, Docker, Puppet, Jenkins, AWS Devops
+    <div><b>Databases:</b></div>
+    &emsp;&emsp;Dynamo DB, Aurora, MySQL, Mongo DB, Redis, Firebase database
+    <div><b>Software Testing: </b></div>
+    </div> &emsp;&emsp;Selenium Web Driver, TestNG, Sikuli, JUnit
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/hamzakfareed" target="blank"><img align="center"
@@ -41,6 +32,19 @@ KEY SKILLS:
             src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="hamzakfareed"
             height="40" width="40" /></a>
 </p>
+
+# 📊 GitHub Stats:
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api?username=hamzakfareed&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="hamzakfareed" /></p>
+
+<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakfareed&theme=dark&hide_border=false"
+        alt="hamzakfareed" /></p>
+<p>&nbsp;<img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakfareed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="hamzakfareed" /></p>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
@@ -127,15 +131,3 @@ KEY SKILLS:
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </p>
-
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=hamzakfareed&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="hamzakfareed" /></p>
-
-<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakfareed&theme=dark&hide_border=false"
-        alt="hamzakfareed" /></p>
-<p>&nbsp;<img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakfareed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="hamzakfareed" /></p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
